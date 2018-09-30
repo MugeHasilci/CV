@@ -1,16 +1,18 @@
-## Your Name
+## MUGE HASILCI
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a passionate and ambitious junior software developer with great logical, arithmetic and problem solving skills, who has self learnt and now part of the makers academy bootcamp for software engineering, is actively seeing to kick start my career in development as a software engineer with in an organisation that strives in technology which has a passionate development team that I can learn and progress  my career.
 
 ## Skills
 
-#### This Skill
+#### Problem solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In my previous role as a customer service executive, I have won many awards for being the best member of my team for solving customers queries and getting the highest NPS month on month. I developed my own toolkit to help me responds to customers queries quickly and efficiently there by able to solve more issues in a day than any of my other team members.
 
-- Experience
-- Achievements
-- Evidence
+I enjoy solving problems, troubleshooting issues, and coming up with solutions in a timely manner.I thrive in team settings, and I think my ability to effectively  communicate with others is what drives my ability to solve a variety of problems.I like to explore alternative solutions to problems and have an open mind about what will work best.
+
+#### Collaborating and partnering
+
+In my previous role as Hotel Management Trainee at Istanbul Marriot Hotel Asia, I worked collaboratively with my team to deliver the best customer service experience to our guests. By working in team I learnt how a cooperative process enable each of us an individuals to achieve extraordinary results being part of a well co-ordinated team.  I learned that by sharing common goals, values, beliefs and motivation I can succeed to in my soft skills, experience and career. Being part of team we can complement each others strength and learn from each other to have an all round learning and experience to further our career goal. 
 
 #### Another Skill
 
