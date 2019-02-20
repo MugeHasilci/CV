@@ -2,6 +2,25 @@
 
 I am a passionate and ambitious junior software developer with great logical, arithmetic and problem solving skills, who has self learnt and now part of the makers academy bootcamp for software engineering, is actively seeing to kick start my career in development as a software engineer with in an organisation that strives in technology which has a passionate development team that I can learn and progress  my career.
 
+**Behaviours and Approaches**
+* TDD & BDD
+* Pair-programming
+* OOP
+* MVP
+* XP Values
+* Agile
+
+In a short amount of time, I have been able to use different technologies and change between them from one week to the next during the course. Always keen to learn new technologies and make an impact in the products I develop.
+
+## Projects at Makers
+
+|                                 Project                                | When (timeframe) | Description                                                                                                                                                   | Tech Stack                                                     |
+|:-----------------------------------------------------------------------:|------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| [GIVEit](https://github.com/MugeHasilci/GIVEit-frontend)                | Week 9 (2 weeks)  | Group project where our idea is to build a social platform for connecting people in need with people offering goods/services that can help them.                                                                                                                        | Ruby on Rails (API-only), RSpec, React, Jest, Enzyme, Cypress, Google Maps APIs, Material Design.                |
+| [Villains Book](https://github.com/RyanWolfen7/Villains_Book)           | Week 8 (2 weeks) | This project is a colaborative group effort to create a functioning 'Facebook clone' using Ruby on Rails. The intention was for the group to learn and utilize both Ruby on Rails to create the project and Agile development processes to work as a team.           | Ruby on Rails, HTML/CSS/Bootstrap, ActiveRecord, Travis CI, Heroku   |
+| [Thermostat](https://github.com/MugeHasilci/Thermostat-JS)               | Week 5 (weekend) | This project made during my first week learning JavaScript and jQuery. This program interacts with an API to get the current weather in different cities.                                                                                                               | JavaScript, jQuery, OpenWeatherMap API,Jasmine, HTML, CSS                     |
+  | [Singl Page ShoppingL List App](https://github.com/MugeHasilci/Shopping-List-SPA)                 | Week 7 (weekend) | A Single Page Shopping List application written in pure JavaScript without any framework.The motivation for this project is to familiarise with Javascript.                                                                                                                                                                                                                 | JavaScript |
+
 ## Skills
 
 #### Problem solving
