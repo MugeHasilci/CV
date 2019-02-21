@@ -23,7 +23,9 @@ In a short amount of time, I have been able to use different technologies and ch
 
 ## Skills
 
-#### Problem solving
+#### Problem solving and Fast Learner
+
+I have always enjoyed fixing things and understanding how they work, which is what lead me to enjoy maths and science when I was younger, and programming now. I have a good logical and analytical mind, and so I'm skilled at quickly working out where a problem lies and how to fix it. I am able to pick up new skills quickly, and this has helped me to stay ahead throughout the course.
 
 In my previous role as a customer service executive, I have won many awards for being the best member of my team for solving customers queries and getting the highest NPS month on month. I developed my own toolkit to help me responds to customers queries quickly and efficiently there by able to solve more issues in a day than any of my other team members.
 
@@ -33,39 +35,22 @@ I enjoy solving problems, troubleshooting issues, and coming up with solutions i
 
 In my previous role as Hotel Management Trainee at Istanbul Marriot Hotel Asia, I worked collaboratively with my team to deliver the best customer service experience to our guests. By working in team I learnt how a cooperative process enable each of us an individuals to achieve extraordinary results being part of a well co-ordinated team.  I learned that by sharing common goals, values, beliefs and motivation I can succeed to in my soft skills, experience and career. Being part of team we can complement each others strength and learn from each other to have an all round learning and experience to further our career goal. 
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Swiss Hotel Management School / Msc in International Hospitality Management ((Feb 2013 to Jan 2014))
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**GVC Holding** (June 2016 to Oct 2017)    
+*Sales and Customer Service Executive*  
+
+I being part of Sales and CS team focused in English market, I deliverer excellent sales and customer service to our customers building professional rapport with them and ensure that they are fully satisfied with any of their queries and issues (cases) via multi-channels i.e. online chat, email and call back. I am an expert user of Sales force CRM and Fin Admin, using these powerful systems I analyze customer account, make changes on demand, act as 1st and 2nd line of support, escalate to relevant team for 3rd line support when required. I prioritize my work load using my own initiatives and pragmatic approach, thinking out of box to resolve cases to customer's satisfaction. My Sales function include contacting new customers about promotions, products and services by telephone and successfully close a sale as won. I have the highest successful closing rate and NPS for many months. I am able to achieve these because of my strong sales, negotiation, decision making and problem-solving skills. I work closely with geo-spread teams from different countries from Ireland, Malta, Bulgaria and India with aim to delivering best and efficient customer service.
+
