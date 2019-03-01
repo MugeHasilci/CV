@@ -35,6 +35,10 @@ I enjoy solving problems, troubleshooting issues, and coming up with solutions i
 
 In my previous role as Hotel Management Trainee at Istanbul Marriot Hotel Asia, I worked collaboratively with my team to deliver the best customer service experience to our guests. By working in team I learnt how a cooperative process enable each of us an individuals to achieve extraordinary results being part of a well co-ordinated team.  I learned that by sharing common goals, values, beliefs and motivation I can succeed to in my soft skills, experience and career. Being part of team we can complement each others strength and learn from each other to have an all round learning and experience to further our career goal. 
 
+#### Clean Code Advocate
+
+Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows SOLID principles. An example of my use of TDD and clean code can be found in my GitHub MugeHasilci.
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
