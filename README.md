@@ -31,18 +31,18 @@ Over the course of the Makers bootcamp, I have developed a strong understanding 
 
 ## Education
 #### Economic Change – Super mums Programme (April 2019 to Present) Salesforce Administration Course
-•	Organization and user set up
-•	Create Lightning Experience custom apps, objects and formulas
-•	Data Modelling
-•	Data Management
-•	Salesforce Mobile App Customization
-•	Reports and Dashboards for Lightning Experience
-•	Data management (import, export, duplicate management, data quality management)
-•	Sales and Marketing Applications
-•	Service and Support Applications
-•	Activity Management and collaboration
-•	Set up Flows and Business Process
-•	Business Analysis
+-	Organization and user set up
+-	Create Lightning Experience custom apps, objects and formulas
+-	Data Modelling
+-	Data Management
+-	Salesforce Mobile App Customization
+-	Reports and Dashboards for Lightning Experience
+-	Data management (import, export, duplicate management, data quality management)
+-	Sales and Marketing Applications
+-	Service and Support Applications
+-	Activity Management and collaboration
+- Set up Flows and Business Process
+- Business Analysis
 
 #### Makers Academy (Oct 2018 to Jan 2019)
 
