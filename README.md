@@ -1,16 +1,6 @@
 ## MUGE HASILCI
 
-I am a passionate and ambitious junior software developer with great logical, arithmetic and problem solving skills, who has self learnt and now part of the makers academy bootcamp for software engineering, is actively seeing to kick start my career in development as a software engineer with in an organisation that strives in technology which has a passionate development team that I can learn and progress  my career.
-
-**Behaviours and Approaches**
-* TDD & BDD
-* Pair-programming
-* OOP
-* MVP
-* XP Values
-* Agile
-
-In a short amount of time, I have been able to use different technologies and change between them from one week to the next during the course. Always keen to learn new technologies and make an impact in the products I develop.
+I am a passionate and ambitious junior software developer with great logical, arithmetic and problem solving skills, who has self-learnt and now part of the makers academy boot camp for software engineering, is actively seeing to kick start my career as a salesforce admin/developer within an organisation that strives in technology which has a passionate development team that I can learn and progress my career. 
 
 ## Projects at Makers
 
@@ -40,8 +30,21 @@ In my previous role as Hotel Management Trainee at Istanbul Marriot Hotel Asia, 
 Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows SOLID principles. An example of my use of TDD and clean code can be found in my GitHub MugeHasilci.
 
 ## Education
+#### Economic Change – Super mums Programme (April 2019 to Present) Salesforce Administration Course
+•	Organization and user set up
+•	Create Lightning Experience custom apps, objects and formulas
+•	Data Modelling
+•	Data Management
+•	Salesforce Mobile App Customization
+•	Reports and Dashboards for Lightning Experience
+•	Data management (import, export, duplicate management, data quality management)
+•	Sales and Marketing Applications
+•	Service and Support Applications
+•	Activity Management and collaboration
+•	Set up Flows and Business Process
+•	Business Analysis
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2018 to Jan 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -50,6 +53,11 @@ Over the course of the Makers bootcamp, I have developed a strong understanding 
 
 #### Swiss Hotel Management School / Msc in International Hospitality Management ((Feb 2013 to Jan 2014))
 
+## Certification
+
+Salesforce ADM 201 (will be certified in July) 
+
+Trailhead (https://trailhead.com/me/mhasilci)
 
 ## Experience
 
