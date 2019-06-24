@@ -1,6 +1,6 @@
 ## MUGE HASILCI
 
-I am a passionate and ambitious junior software developer with great logical, arithmetic and problem solving skills, who has self-learnt and now part of the makers academy boot camp for software engineering, is actively seeing to kick start my career as a salesforce admin/developer within an organisation that strives in technology which has a passionate development team that I can learn and progress my career. 
+I am a passionate and ambitious junior software developer with great logical, arithmetic and problem solving skills, who has self-learnt and now part of the makers academy boot camp for software engineering, is actively seeing to kick start my career as a salesforce developer within an organisation that strives in technology which has a passionate development team that I can learn and progress my career. 
 
 ## Projects at Makers
 
